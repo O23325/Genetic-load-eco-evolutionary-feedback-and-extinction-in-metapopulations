@@ -5,11 +5,11 @@
 
 ### Project Authors
 
-| Name                       | Affiliation                                                                              | Contact                     |
-|----------------------------|------------------------------------------------------------------------------------------|-----------------------------|
-| Oluwafunmilola Olusanya    |                                                                                          | oluwafunmilola549@gmail.com |
-| Ksenia Khudiakova          | Institute of Science and Technology, Austria, Am Campus 1, Klosterneuburg, 3400, Austria | kseniia.khudiakova@ist.ac.at|
-| Himani Sachdeva            | Department of Mathematics, University of vienna, Vienna, 1090, Austria                   | himani.sachdeva@univie.ac.at|
+| Name                       | Contact details             |
+|----------------------------|-----------------------------|
+| Oluwafunmilola Olusanya    | oluwafunmilola549@gmail.com |
+| Ksenia Khudiakova          | kseniia.khudiakova@ist.ac.at|
+| Himani Sachdeva            | himani.sachdeva@univie.ac.at|
 
 
 ### Project Abstract
