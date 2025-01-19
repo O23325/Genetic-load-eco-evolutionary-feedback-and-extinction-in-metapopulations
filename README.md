@@ -1,6 +1,6 @@
 ## Genetic load, eco-evolutionary feedback and extinction in metapopulations
 
-### Authors
+### Project Authors
 
 | Name                       | Affiliation                                                                              | Contact                     |
 |----------------------------|------------------------------------------------------------------------------------------|-----------------------------|
