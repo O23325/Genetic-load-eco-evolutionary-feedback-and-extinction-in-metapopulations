@@ -37,3 +37,8 @@ The Mathematica directory houses a mathematica notebook named Manuscript.nb whic
 
 - **Olusanya Oluwafunmilola**: Wrote Mathematica codes and simulations.
 - **Himani Sachdeva**: Wrote Fortran codes and simulations.
+
+### Citation
+
+If you use this project in your research, please cite it as follows:
+Olusanya, O. (2025). Genetic-load-eco-evolutionary-feedback-and-extinction-in-metapopulations (v1.10.0). Zenodo. https://doi.org/10.5281/zenodo.14682599.
