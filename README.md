@@ -4,9 +4,9 @@
 
 | Name                    | Affiliation                                                                              | Contact                                     |
 |-------------------------|------------------------------------------------------------------------------------------|---------------------------------------------|
-| Oluwafunmilola Olusanya | Example University                                                                       | [Email](mailto:oluwafunmilola549@gmail.com) |
-| Ksenia Khudiakova       | Institute of Science and Technology, Austria, Am Campus 1, Klosterneuburg, 3400, Austria | [Email](mailto:kseniia.khudiakova@ist.ac.at)|
-| Himani Sachdeva         | Department of Mathematics, University of vienna, Vienna, 1090, Austria                   | [Email](mailto:himani.sachdeva@univie.ac.at)|
+| Oluwafunmilola Olusanya |                                                                                          | (mailto:oluwafunmilola549@gmail.com) |
+| Ksenia Khudiakova       | Institute of Science and Technology, Austria, Am Campus 1, Klosterneuburg, 3400, Austria | (mailto:kseniia.khudiakova@ist.ac.at)|
+| Himani Sachdeva         | Department of Mathematics, University of vienna, Vienna, 1090, Austria                   | (mailto:himani.sachdeva@univie.ac.at)|
 
 
 ### Project Abstract
