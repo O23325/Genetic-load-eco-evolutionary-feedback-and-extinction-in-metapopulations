@@ -32,3 +32,8 @@ The Mathematica directory houses a mathematica notebook named Manuscript.nb whic
 
 * Mathematica version 12.1 or later
 * GNU Fortran 14.1.0
+
+### Code contributions
+
+- **Olusanya Oluwafunmilola**: Wrote Mathematica codes and simulations.
+- **Himani Sachdeva**: Wrote Fortran codes and simulations.
